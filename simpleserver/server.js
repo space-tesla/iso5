@@ -10,7 +10,14 @@ server.listen(3000, () => {
 });
 
 
-// HOW TO RUN THIS APPLICATION:
+// HOW TO RUN THIS PROGRAM:
+
+// REQUIRED SETUP (Run these once if not already done):
+// npm init -y
+// npm install express
+// npm install
+
+// RUN THE APPLICATION:
 // Step 1: Open terminal inside this folder
 // Step 2: Run → node server.js
 // Step 3: Open browser → http://localhost:3000
